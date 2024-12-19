@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-sidebar_label: Developement
+sidebar_label: Developement (for backend)
 tags:
    - architecture
    - backend
@@ -8,7 +8,7 @@ tags:
 
 # Development
 
-To run the application in development mode, please follow these steps:
+This is the environment configured for **backend team** to develop. It'll setup db, caching and other infrastructures to run the backend code. To run the application in development mode, please follow these steps:
 
 ### Step 1:
 
