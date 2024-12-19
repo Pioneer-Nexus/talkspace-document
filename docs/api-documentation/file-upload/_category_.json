@@ -1,0 +1,8 @@
+{
+  "label": "File upload",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Documentation for file uploading, using HTTP with multipart/form-data to upload file."
+  }
+}
